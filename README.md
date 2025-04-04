@@ -11,7 +11,7 @@ How to setup this project ?
 
 ## Contributors 🚀
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Madhup73488">
     <img src="https://github.com/Madhup73488.png" width="75px" style="border-radius: 50%;"/>
   </a>
